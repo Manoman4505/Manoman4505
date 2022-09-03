@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoman4505
-- 👀 I’m interested to learn java
-- 🌱 I’m currently learn
+- 👀 I’m interested to learn frontend dev
+- 🌱 I’m currently learn 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
